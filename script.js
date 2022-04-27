@@ -49,8 +49,8 @@ $(function () {
       "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/1.mp3",
       "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/3.mp3",
       "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/4.mp3",
-      "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/5.mp3",
-      "http://45.58.97.188:8000/listen.mp3"
+      ""http://45.58.97.188:8000/listen.mp3"
+      
     ],
     playPreviousTrackButton = $("#play-previous"),
     playNextTrackButton = $("#play-next"),
