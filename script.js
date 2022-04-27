@@ -212,7 +212,7 @@ $(function () {
 
       bgArtworkUrl = $("#" + currArtwork).attr("src");
 
-      bgArtwork.css({ "background-image": "url("https://i.ibb.co/swqm6KF/music-line-background-electronic-wallpaper-preview.jpg")" });
+      bgArtwork.css({ "background-image": "url("https://i.ytimg.com/vi/uX2nSEhLIFo/maxresdefault.jpg")" });
     } else {
       if (flag == 0 || flag == 1) --currIndex;
       else ++currIndex;
